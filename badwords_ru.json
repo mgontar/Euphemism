@@ -7,8 +7,14 @@
 
          ],
          "substitutions":[
+		    {
+               "input":"долбоеб",
+               "inputType":"text",
+               "output":"труженик",
+               "caseSensitive":false
+            },
             {
-               "input":"долбоЄб",
+               "input":"долбоёб",
                "inputType":"text",
                "output":"труженик",
                "caseSensitive":false
@@ -20,7 +26,7 @@
                "caseSensitive":false
             },
             {
-               "input":"бл¤д",
+               "input":"бляд",
                "inputType":"text",
                "output":"вклад",
                "caseSensitive":false
@@ -62,7 +68,7 @@
                "caseSensitive":false
             },
             {
-               "input":"сосЄшь",
+               "input":"сосёшь",
                "inputType":"text",
                "output":"чешеш",
                "caseSensitive":false
@@ -128,15 +134,15 @@
                "caseSensitive":false
             },
             {
-               "input":"Єб",
+               "input":"ёб",
                "inputType":"text",
                "output":"жлоб",
                "caseSensitive":false
             },
             {
-               "input":"хуЄ",
+               "input":"хуё",
                "inputType":"text",
-               "output":"Є",
+               "output":"ё",
                "caseSensitive":false
             },
             {
@@ -158,9 +164,9 @@
                "caseSensitive":false
             },
             {
-               "input":"ху¤",
+               "input":"хуя",
                "inputType":"text",
-               "output":"ду¤",
+               "output":"дуя",
                "caseSensitive":false
             },
             {
