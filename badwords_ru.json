@@ -1,4 +1,4 @@
-{
+п»ї{
    "version":"0.1",
    "groups":[
       {
@@ -8,171 +8,171 @@
          ],
          "substitutions":[
             {
-               "input":"долбоёб",
+               "input":"РґРѕР»Р±РѕР„Р±",
                "inputType":"text",
-               "output":"труженик",
+               "output":"С‚СЂСѓР¶РµРЅРёРє",
                "caseSensitive":false
             },
             {
-               "input":"гомосек",
+               "input":"РіРѕРјРѕСЃРµРє",
                "inputType":"text",
-               "output":"гей",
+               "output":"РіРµР№",
                "caseSensitive":false
             },
             {
-               "input":"бляд",
+               "input":"Р±Р»В¤Рґ",
                "inputType":"text",
-               "output":"вклад",
+               "output":"РІРєР»Р°Рґ",
                "caseSensitive":false
             },
             {
-               "input":"пидер",
+               "input":"РїРёРґРµСЂ",
                "inputType":"text",
-               "output":"жонглер",
+               "output":"Р¶РѕРЅРіР»РµСЂ",
                "caseSensitive":false
             },
             {
-               "input":"пидор",
+               "input":"РїРёРґРѕСЂ",
                "inputType":"text",
-               "output":"кредитор",
+               "output":"РєСЂРµРґРёС‚РѕСЂ",
                "caseSensitive":false
             },
             {
-               "input":"пидар",
+               "input":"РїРёРґР°СЂ",
                "inputType":"text",
-               "output":"перегар",
+               "output":"РїРµСЂРµРіР°СЂ",
                "caseSensitive":false
             },
             {
-               "input":"залуп",
+               "input":"Р·Р°Р»СѓРї",
                "inputType":"text",
-               "output":"загуб",
+               "output":"Р·Р°РіСѓР±",
                "caseSensitive":false
             },
             {
-               "input":"жоп",
+               "input":"Р¶РѕРї",
                "inputType":"text",
-               "output":"поп",
+               "output":"РїРѕРї",
                "caseSensitive":false
             },
             {
-               "input":"сосешь",
+               "input":"СЃРѕСЃРµС€СЊ",
                "inputType":"text",
-               "output":"чешеш",
+               "output":"С‡РµС€РµС€",
                "caseSensitive":false
             },
             {
-               "input":"сосёшь",
+               "input":"СЃРѕСЃР„С€СЊ",
                "inputType":"text",
-               "output":"чешеш",
+               "output":"С‡РµС€РµС€",
                "caseSensitive":false
             },
             {
-               "input":"сука",
+               "input":"СЃСѓРєР°",
                "inputType":"text",
-               "output":"кука",
+               "output":"РєСѓРєР°",
                "caseSensitive":false
             },
             {
-               "input":"сучка",
+               "input":"СЃСѓС‡РєР°",
                "inputType":"text",
-               "output":"тучка",
+               "output":"С‚СѓС‡РєР°",
                "caseSensitive":false
             },
             {
-               "input":"заеб",
+               "input":"Р·Р°РµР±",
                "inputType":"text",
-               "output":"стеб",
+               "output":"СЃС‚РµР±",
                "caseSensitive":false
             },
             {
-               "input":"наеб",
+               "input":"РЅР°РµР±",
                "inputType":"text",
-               "output":"стеб",
+               "output":"СЃС‚РµР±",
                "caseSensitive":false
             },
             {
-               "input":"уеб",
+               "input":"СѓРµР±",
                "inputType":"text",
-               "output":"шлеп",
+               "output":"С€Р»РµРї",
                "caseSensitive":false
             },
             {
-               "input":"пизд",
+               "input":"РїРёР·Рґ",
                "inputType":"text",
-               "output":"визг",
+               "output":"РІРёР·Рі",
                "caseSensitive":false
             },
             {
-               "input":" ебу",
+               "input":" РµР±Сѓ",
                "inputType":"text",
-               "output":" к небу",
+               "output":" Рє РЅРµР±Сѓ",
                "caseSensitive":false
             },
             {
-               "input":"ебат",
+               "input":"РµР±Р°С‚",
                "inputType":"text",
-               "output":"набат",
+               "output":"РЅР°Р±Р°С‚",
                "caseSensitive":false
             },
             {
-               "input":"ебан",
+               "input":"РµР±Р°РЅ",
                "inputType":"text",
-               "output":"лабан",
+               "output":"Р»Р°Р±Р°РЅ",
                "caseSensitive":false
             },
             {
-               "input":"ебис",
+               "input":"РµР±РёСЃ",
                "inputType":"text",
-               "output":"редис",
+               "output":"СЂРµРґРёСЃ",
                "caseSensitive":false
             },
             {
-               "input":"ёб",
+               "input":"Р„Р±",
                "inputType":"text",
-               "output":"жлоб",
+               "output":"Р¶Р»РѕР±",
                "caseSensitive":false
             },
             {
-               "input":"хуё",
+               "input":"С…СѓР„",
                "inputType":"text",
-               "output":"ё",
+               "output":"Р„",
                "caseSensitive":false
             },
             {
-               "input":"хуе",
+               "input":"С…СѓРµ",
                "inputType":"text",
-               "output":"суе",
+               "output":"СЃСѓРµ",
                "caseSensitive":false
             },
             {
-               "input":"хуи",
+               "input":"С…СѓРё",
                "inputType":"text",
-               "output":"даи",
+               "output":"РґР°Рё",
                "caseSensitive":false
             },
             {
-               "input":"хуй",
+               "input":"С…СѓР№",
                "inputType":"text",
-               "output":"дуй",
+               "output":"РґСѓР№",
                "caseSensitive":false
             },
             {
-               "input":"хуя",
+               "input":"С…СѓВ¤",
                "inputType":"text",
-               "output":"дуя",
+               "output":"РґСѓВ¤",
                "caseSensitive":false
             },
             {
-               "input":"член",
+               "input":"С‡Р»РµРЅ",
                "inputType":"text",
-               "output":"плен",
+               "output":"РїР»РµРЅ",
                "caseSensitive":false
             },
             {
-               "input":"шлюха",
+               "input":"С€Р»СЋС…Р°",
                "inputType":"text",
-               "output":"плюха",
+               "output":"РїР»СЋС…Р°",
                "caseSensitive":false
             }
          ],
